@@ -1,11 +1,13 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+THis is my Volleyball website for CSUEB Volleyball club 
+
+Currently a reboot because of recent update on rails. 
 
 Things you may want to cover:
 
 * Ruby version
+5.0
 
 * System dependencies
 
