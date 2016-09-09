@@ -34,6 +34,7 @@ end
 
 
 #css
+gem 'bootstrap-sass' 
 gem 'font-awesome-sass'
 gem "spring-commands-rspec"
 #static pages
