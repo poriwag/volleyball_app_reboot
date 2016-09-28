@@ -22,3 +22,4 @@ class UserMailer < ApplicationMailer
     mail to: "to@example.org"
   end
 end
+  
